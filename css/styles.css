@@ -9,7 +9,8 @@ body {
 .main_header {
 	position: sticky;
 	top: 0;
-	background: #1a1d23;
+	background: #000000;
+    height: 56px;
 }
 
 header {
