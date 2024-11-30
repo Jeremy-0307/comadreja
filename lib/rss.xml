@@ -1,22 +1,131 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[notas Jeremy]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://jeremy-0307.github.io/https://jeremy-0307.github.io/</link><image><url>https://jeremy-0307.github.io/https://jeremy-0307.github.io/lib/media/favicon.png</url><title>notas Jeremy</title><link>https://jeremy-0307.github.io/https://jeremy-0307.github.io/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 30 Nov 2024 03:36:14 GMT</lastBuildDate><atom:link href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 30 Nov 2024 03:36:14 GMT</pubDate><copyright><![CDATA[Jeremias EM]]></copyright><ttl>60</ttl><dc:creator>Jeremias EM</dc:creator><item><title><![CDATA[una de prueba]]></title><description><![CDATA[ 
- <br><br>---tab Websites
-- [Better Pinteres](https://www.cosmos.so/e/390364507)
-- [8 bit workshop](https://8bitworkshop.com/)
-- Libros
-	- [Lenguajes](https://github.com/manish-old/ebooks-2/tree/master)
-	- [Cybersecurity](https://www.reddit.com/r/cybersecurity/comments/yj4sdq/whats_a_must_read_book_for_cyber_security/)
-	- [C++](https://github.com/yuchdev/CppBooks)
-	- MUST READ [Building Secure](https://theswissbay.ch/pdf/Books/Computer%20science/building_secure_and_reliable_systems.pdf)
-	- MUST READ [Art of Explotation](https://repo.zenk-security.com/Magazine%20E-book/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf)
-	- [Projectos](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc)
-	- Mathemathics for 3D programming and computer games
-- Haker
-	- [pwn](https://pwn.college/)
-	- [OTW](https://overthewire.org/wargames/)
-- [Projects Every Programmer Should Try](https://austinhenley.com/blog/challengingprojects.html)
-- [Disenho de cuarto](https://www.instagram.com/speyx.design/)
----tab Frases
-Hipillo
----tab ]]></description><link>comadreja/linux.html</link><guid isPermaLink="false">comadreja/linux.md</guid><pubDate>Sat, 30 Nov 2024 03:30:06 GMT</pubDate></item><item><title><![CDATA[y esto seria]]></title><description><![CDATA[ 
- <br>]]></description><link>comadreja/localhost.html</link><guid isPermaLink="false">comadreja/localhost.md</guid><pubDate>Sat, 30 Nov 2024 03:28:58 GMT</pubDate></item><item><title><![CDATA[Hola]]></title><description><![CDATA[ 
- <br><br>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Sat, 30 Nov 2024 03:28:42 GMT</pubDate></item></channel></rss>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[notas Jeremy]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://jeremy-0307.github.io/https://jeremy-0307.github.io/</link><image><url>https://jeremy-0307.github.io/https://jeremy-0307.github.io/lib/media/favicon.png</url><title>notas Jeremy</title><link>https://jeremy-0307.github.io/https://jeremy-0307.github.io/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 30 Nov 2024 03:54:54 GMT</lastBuildDate><atom:link href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 30 Nov 2024 03:54:51 GMT</pubDate><copyright><![CDATA[Jeremias EM]]></copyright><ttl>60</ttl><dc:creator>Jeremias EM</dc:creator><item><title><![CDATA[Cap 1: Fundamentales]]></title><description><![CDATA[<a class="tag" href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/?query=tag:Supervisado" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Supervisado</a> <a class="tag" href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/?query=tag:No-supervisado" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#No-supervisado</a> <a class="tag" href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/?query=tag:Supervisado" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Supervisado</a> <a class="tag" href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/?query=tag:No-supervisado" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#No-supervisado</a> <a class="tag" href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/?query=tag:Semi-supervisado" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Semi-supervisado</a> <a class="tag" href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/?query=tag:Reinforzado" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Reinforzado</a> <a class="tag" href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/?query=tag:Self-supervised" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Self-supervised</a> <a class="tag" href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/?query=tag:Domain-adaptation" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Domain-adaptation</a> <a class="tag" href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/?query=tag:Classification" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Classification</a> <a class="tag" href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/?query=tag:Regresion" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Regresion</a> <a class="tag" href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/?query=tag:Batch" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Batch</a> <a class="tag" href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/?query=tag:Online-learning" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Online-learning</a> <a class="tag" href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/?query=tag:Aprendizaje-basado-en-instancias" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aprendizaje-basado-en-instancias</a> <a class="tag" href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/?query=tag:Aprendizaje-basado-en-modelo" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Aprendizaje-basado-en-modelo</a> <a class="tag" href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/?query=tag:hyperparametros" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#hyperparametros</a> 
+ <br><br><a data-tooltip-position="top" aria-label="http://powerunit-ju.com/wp-content/uploads/2021/04/Aurelien-Geron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-OReilly-Media-2019.pdf" rel="noopener nofollow" class="external-link" href="http://powerunit-ju.com/wp-content/uploads/2021/04/Aurelien-Geron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-OReilly-Media-2019.pdf" target="_blank">libro</a><br><br>
+A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E.
+\ -Tom Mitchell, 1997*
+<br><br><br>
+❕Siempre es un buena idea utilizar un algoritmos para reducir las dimensiones de los datos
+<br>
+<br><a href="https://jeremy-0307.github.io/https://jeremy-0307.github.io?query=tag:Supervisado" class="tag" target="_blank" rel="noopener nofollow">#Supervisado</a>: el algoritmo recibe información con soluciones deseadas, lo cual incluye tareas como la clasificación de datos.
+<br><a href="https://jeremy-0307.github.io/https://jeremy-0307.github.io?query=tag:No-supervisado" class="tag" target="_blank" rel="noopener nofollow">#No-supervisado</a>: la información carece de etiquetas.
+
+<br>Visualizacion: Se crea un mapa en 2D/3D que representa la información, lo que facilita la identificación de patrones que antes no eran visibles.
+<br>Deteccion de anomalia: Identifica instancias que se desvían de la norma o el patrón esperado.
+<br>Asociatividad: Alimenta la máquina con grandes volúmenes de información e intenta que establezca relaciones entre los datos.
+
+
+<br><a href="https://jeremy-0307.github.io/https://jeremy-0307.github.io?query=tag:Semi-supervisado" class="tag" target="_blank" rel="noopener nofollow">#Semi-supervisado</a>: Un ejemplo sería el sistema de Google, donde al subir varias fotos, se crean agrupaciones no supervisadas de personas diferentes. Luego, al asignar un nombre a una de estas personas, la máquina lo asociará al grupo correspondiente (enfoque supervisado).
+<br><a href="https://jeremy-0307.github.io/https://jeremy-0307.github.io?query=tag:Reinforzado" class="tag" target="_blank" rel="noopener nofollow">#Reinforzado</a>: En este método, el algoritmo adquiere puntos al tomar decisiones correctas y los pierde al cometer errores.
+<br><a href="https://jeremy-0307.github.io/https://jeremy-0307.github.io?query=tag:Self-supervised" class="tag" target="_blank" rel="noopener nofollow">#Self-supervised</a>: process where the model trains itself to learn one part of the input from another part of the input. It is also known as predictive or pretext learning.
+<br>few-shot||one-shot||zero-shot||: <a data-tooltip-position="top" aria-label="https://builtin.com/machine-learning/few-shot-learning" rel="noopener nofollow" class="external-link" href="https://builtin.com/machine-learning/few-shot-learning" target="_blank">link para volver</a>
+<br><a href="https://jeremy-0307.github.io/https://jeremy-0307.github.io?query=tag:Domain-adaptation" class="tag" target="_blank" rel="noopener nofollow">#Domain-adaptation</a>:
+<br><br>
+<br><a href="https://jeremy-0307.github.io/https://jeremy-0307.github.io?query=tag:Classification" class="tag" target="_blank" rel="noopener nofollow">#Classification</a> predice salidas categoricas, como si un email es spam o no.
+<br><a href="https://jeremy-0307.github.io/https://jeremy-0307.github.io?query=tag:Regresion" class="tag" target="_blank" rel="noopener nofollow">#Regresion</a> predice salidas numerias, como: edad, precio, salario, etc.
+<br><br><br>
+<br><a href="https://jeremy-0307.github.io/https://jeremy-0307.github.io?query=tag:Batch" class="tag" target="_blank" rel="noopener nofollow">#Batch</a> : Este método implica que el sistema requiere mucho tiempo para entrenar, por lo que lo hace "offline". Primero se alimenta con datos y luego se despliega en producción, donde ya no continúa aprendiendo.
+<br><a href="https://jeremy-0307.github.io/https://jeremy-0307.github.io?query=tag:Online-learning" class="tag" target="_blank" rel="noopener nofollow">#Online-learning</a> : Implica entrenar constantemente el sistema mientras está en funcionamiento, alimentándolo con nuevas instancias de datos. Además, estos modelos son capaces de aprender nueva información incluso cuando se enfrentan a limitaciones de espacio, lo que se conoce como "out-of-core learning".
+<br><br><br>La mayoría de los sistemas de aprendizaje automático tienen como objetivo hacer predicciones, lo que implica la capacidad de generalizar a partir de un conjunto de información para aplicarlo a nuevas instancias.<br>
+<br><a href="https://jeremy-0307.github.io/https://jeremy-0307.github.io?query=tag:Aprendizaje-basado-en-instancias" class="tag" target="_blank" rel="noopener nofollow">#Aprendizaje-basado-en-instancias</a>
+Evalúa la similitud de una nueva instancia con el conjunto de datos utilizado para entrenar el modelo. La predicción se realiza considerando qué instancias pasadas se asemejan más a la nueva.
+<br><a href="https://jeremy-0307.github.io/https://jeremy-0307.github.io?query=tag:Aprendizaje-basado-en-modelo" class="tag" target="_blank" rel="noopener nofollow">#Aprendizaje-basado-en-modelo</a>
+Se construye un modelo a partir de los datos de entrenamiento. Luego, cuando se presenta una nueva instancia, el modelo la evalúa según la función o criterio establecido previamente. El modelo busca la mejor función que prediga los resultados a partir de los datos con los que fue entrenado.
+<br><br><br>
+<br>Insuficiente informacion: investigadores de Microsoft mostraron diferente algoritmos de ML, donde se les daba diferentes cantidades de informacion, y cuando la informacion era suficiente mucha los algoritmos simples performeaban casi que de manera identica a los algoritmos mas complejos. The importance of data versus algorithms
+<br>Data de bajo nivel: si trabajos con datos que no mapeen la realidad del problema podemos caer tanto en falsos positivos como en falsos negativos.
+<br>Atributos irrelevantes: se le hara no solo mas dificil generalizar pero danhara tambien atributos que contengan correlacion.
+<br><br><br><br><img alt="Pasted image 20231122202245.png" src="https://jeremy-0307.github.io/https://jeremy-0307.github.io/lib/media/pasted-image-20231122202245.png"><br><br><br><br>Crear las pruebas antes de interactuar con los datos para evitar [data snooping/overfitting]. Aplicar Stratified Sampling para verificar que el set de pruebas que creamos tiene una distribuicion que:<br>
+<br>Realmente refleja los datos con los que estamos trabajando
+<br>Son similares a los datos con los que vamos a entrenar el modelo
+<br><br>Cuando vayamos a trabajar con algun tipo de aletoriedad en el algoritmo, guardemos el valor de manera que cada vez que carguemos el proyecto... sea el mismo.<br><br>Cuando queramos ver correlaciones, tratar de ver como estan relacionadas todas y no solo de manera lineal que es usualmente la unica que se representa.<br><br>Los algotimos de ML no funciona con valores no nulos, tenemos 3 opciones:<br>
+<br>Eliminaros los datos correspondientes
+<br>Eliminar atributo entero
+<br>Asignarles algun valor (0, la mediana, la media, etc...)
+<br><br>Con las categorias, es mejor pasarlas a numeros, si la categorias tiene relaccion entre si y la naturaleza del problema lo permite, podemos mapear los valores de manera simple (dummy variables) pero cuando este no sea el caso es mejor usar matrices dispersas de 01 (hotEncoding)<br><br>La mayoria de algoritmos de ML no trabajan bien cuando los valores numericos trabajan en diferentes escalas. Hay 2 maneras de hacer que todos los valores trabajen dentro del mismo rango: min-max scaling y estandarizacion.<br>
+<br>Min-max scaling
+O normalizacion, los valores so re-escalados para que ahora solo varien de 0 a 1, pero esto la hace sensible alos valores atipicos.
+
+<br>Estandarizacion
+El problema con estandarizacion es que no coloca los valores en un rango especifico, lo cual hace que no sea util para algunos algoritmos ML, pero estandarizacion se ve menos afectado por los valores extremos.
+
+<br><br>
+<br>Converge mas rapido
+<br>Regula dominacion
+<br>Algoritmos basados en distancia
+<br>Mejora escabilidad numerica
+<br><br>Manera de aplicarlealgun tipo de transformacion a los datos.<br>class MyPipeLine(BaseEstimator, TransformerMixin):
+	def fit(self, X, y=None):
+		return self
+	def transform(self, X):
+		# some transformation of the data
+		return X # the transformed data
+
+pipeline = Pipeline
+	([
+		("MyPipeLine", MyPipeLine())
+	])
+<br><br>Una manera de evaluar un modelo (verificando que nuestro modelo no esta hecho a la medida de los datos que le alimentamos) es usar un libreria para k-folds cross-validation, la cual separa de manera aleatoria en N subsets distinto llamados foldes, luego entrena y evalua el modelo M veces, usando un diferente folde para evaluar en los otro K foldes.<br>Junto a esto, tambien podemos aplicar  GRID SEARCH, que consiste en experimentar con diferentes <a href="https://jeremy-0307.github.io/https://jeremy-0307.github.io?query=tag:hyperparametros" class="tag" target="_blank" rel="noopener nofollow">#hyperparametros</a> para llegar a una mejor combinacion de estos.<br><br><br><a data-href="Matriz de confusion" href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/machine_learning/matriz-de-confusion.html" class="internal-link" target="_self" rel="noopener nofollow">Matriz de confusion</a> <br><br><br>Primero, tenemos que ver como podemos minimizar el problema de manera que, por ejemplo:
+Si queremos un modelo que clasifique numeros segun el que sea [0, 1, 2, 3, ...] podemos primero ver si un numeor es 3 o no.<br><br>Métricas utilizadas para evaluar el rendimiento de un modelo de clasificación.<br>
+<br>Presicion: mide la exactitud de las predicciones positivas.
+
+
+
+<br>Recall: mide la capacidad del clasificador para encontrar todos los casos positivos.
+
+
+<br><br>
+<br>Puntuacion F o Armonia
+Medida que combina precisión y exhaustividad en un solo valor numérico. 
+
+
+<br><br><br>El Reciever Operating Characteristic (ROC)
+
+Herramienta comun para mide clasificaciones binarias.
+Puntua la presicion conta el recall <br><br><br><img alt="Pasted image 20231220155651.png" src="https://jeremy-0307.github.io/https://jeremy-0307.github.io/lib/media/pasted-image-20231220155651.png">
+No hay diferenca despues del entrenamiento; todos los algoritmos terminan en modelos similares y hace prediciones de la misma manera.<br><br>Mapa que muestra cómo un modelo aprende y mejora con el tiempo o con más datos. Se entrena el modelo varias veces con diferentes porciones de los datos de entrenamiento, aumentando gradualmente el tamaño del conjunto de entrenamiento/iteraciones de entrenamiento para obtener informacion de cómo cambia el rendimiento y ver si subre de over-fitting.
+grafica de curva de aprendizaje, RL
+<img alt="Pasted image 20231222102311.png" src="https://jeremy-0307.github.io/https://jeremy-0307.github.io/lib/media/pasted-image-20231222102311.png">
+Con el set de entrenamiento, parece ir mejorando hasta llegar a un plateu1, por lo tanto mas informacion no mejora el modelo.
+Con el set de validacion, falla al principio porque no tiene informacion pero disminuye a medida que obtiene mas informacion pero igual llega a punto incapaz de disminuir<br>Estas son lineas tipicas de un modelo underfitting2 <br>grafica de curva de aprendizaje, RP
+<img alt="Pasted image 20231222102852.png" src="https://jeremy-0307.github.io/https://jeremy-0307.github.io/lib/media/pasted-image-20231222102852.png">
+A pesar de ser similar al la grafica anterior, hay una brecha entre las curvas, esto significa que el modelo tiene un mejor rendimiento en el set de entrenamiento que en el de validacion, lo cual es una senhal de un modelo que tiene overfitting3 <br><br>Innabilidad de un modelo de capturar la relacion de los datos.<br><br>Diferencia de desempenho de un modelo con diferentes sets.<br><br>Para regularizar algoritmos iterativos es util detenerse cuando se encuentra el minimo, la razon de estos es que cuando lo encontramos lo mas probable es que si seguimos nos salgamos del minimo global a un minimo local, para modelos tipo <a data-href="Gradient Descent" href="https://jeremy-0307.github.io/https://jeremy-0307.github.io/machine_learning/gradient-descent.html" class="internal-link" target="_self" rel="noopener nofollow">Gradient Descent</a> las curvas no son tan suaves por lo que se considera solo considerar a una solucion optima cuando se ha estado ahi un tiempo.<br>
+# Define a pipeline for polynomial features and scaling
+poly_scaler = Pipeline([
+    ("poly_features", PolynomialFeatures(degree=90, include_bias=False)),
+    ("std_scaler", StandardScaler())
+])
+
+# Transform the training and validation data with the defined pipeline
+X_train_poly_scaled = poly_scaler.fit_transform(X_train)
+X_val_poly_scaled = poly_scaler.transform(X_val)
+
+sgd_reg = SGDRegressor(
+    max_iter=1,            # Perform only 1 iteration per epoch
+    tol=-np.infty,         # Stopping criterion not defined by tolerance
+    warm_start=True,       # Allows continuation of training
+    penalty=None,          # No regularization penalty applied
+    learning_rate="constant",  # Constant learning rate
+    eta0=0.0005            # Initial learning rate
+)
+
+# Initialize variables to track the best model and its performance
+minimum_val_error = float("inf")  # Initialize minimum validation error as infinity
+best_epoch = None  # Initialize variable to track the epoch with the best model
+best_model = None  # Initialize variable to hold the best model
+
+# Loop through 1000 epochs
+for epoch in range(1000):
+    # Train the SGDRegressor on the transformed training data
+    sgd_reg.fit(X_train_poly_scaled, y_train)
+    # Predict using the trained model on the validation set
+    y_val_predict = sgd_reg.predict(X_val_poly_scaled)
+    # Calculate mean squared error between predicted and actual validation labels
+    val_error = mean_squared_error(y_val, y_val_predict)
+    # Check if the current validation error is lower than the minimum observed so far
+    if val_error &lt; minimum_val_error:
+        # If yes, update minimum_val_error, best_epoch, and best_model
+        minimum_val_error = val_error
+        best_epoch = epoch
+        best_model = clone(sgd_reg)  # Clone the current best model
+<br><br><br><br><br><br>1 terreno plano en frances.
+2 Modelo incapaz de capturar la naturaleza de la complejidad de los datos
+3 Un modelo se ajusta exactamente a sus datos de entrenamiento]]></description><link>https://jeremy-0307.github.io/https://jeremy-0307.github.io/machine_learning/handsonmachinelearning.html</link><guid isPermaLink="false">Machine_Learning/HandsOnMachineLearning.md</guid><dc:creator><![CDATA[Jeremias EM]]></dc:creator><pubDate>Sun, 27 Oct 2024 23:07:44 GMT</pubDate><enclosure url="https://jeremy-0307.github.io/https://jeremy-0307.github.io/lib/media/pasted-image-20231122202245.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://jeremy-0307.github.io/https://jeremy-0307.github.io/lib/media/pasted-image-20231122202245.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
