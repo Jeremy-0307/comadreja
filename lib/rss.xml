@@ -1,0 +1,22 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian-notes]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>obsidian-notes</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 30 Nov 2024 03:30:27 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 30 Nov 2024 03:30:26 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[una de prueba]]></title><description><![CDATA[ 
+ <br><br>---tab Websites
+- [Better Pinteres](https://www.cosmos.so/e/390364507)
+- [8 bit workshop](https://8bitworkshop.com/)
+- Libros
+	- [Lenguajes](https://github.com/manish-old/ebooks-2/tree/master)
+	- [Cybersecurity](https://www.reddit.com/r/cybersecurity/comments/yj4sdq/whats_a_must_read_book_for_cyber_security/)
+	- [C++](https://github.com/yuchdev/CppBooks)
+	- MUST READ [Building Secure](https://theswissbay.ch/pdf/Books/Computer%20science/building_secure_and_reliable_systems.pdf)
+	- MUST READ [Art of Explotation](https://repo.zenk-security.com/Magazine%20E-book/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf)
+	- [Projectos](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc)
+	- Mathemathics for 3D programming and computer games
+- Haker
+	- [pwn](https://pwn.college/)
+	- [OTW](https://overthewire.org/wargames/)
+- [Projects Every Programmer Should Try](https://austinhenley.com/blog/challengingprojects.html)
+- [Disenho de cuarto](https://www.instagram.com/speyx.design/)
+---tab Frases
+Hipillo
+---tab ]]></description><link>comadreja/linux.html</link><guid isPermaLink="false">comadreja/linux.md</guid><pubDate>Sat, 30 Nov 2024 03:30:06 GMT</pubDate></item><item><title><![CDATA[y esto seria]]></title><description><![CDATA[ 
+ <br>]]></description><link>comadreja/localhost.html</link><guid isPermaLink="false">comadreja/localhost.md</guid><pubDate>Sat, 30 Nov 2024 03:28:58 GMT</pubDate></item><item><title><![CDATA[Hola]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Sat, 30 Nov 2024 03:28:42 GMT</pubDate></item></channel></rss>
